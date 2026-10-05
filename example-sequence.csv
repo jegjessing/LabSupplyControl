@@ -1,0 +1,7 @@
+# Example timed sequence — time is elapsed from start
+time,output,voltage,current
+00:00:00,on,5.0,1.0
+00:00:30,off
+00:01:00,on,3.3,0.5
+00:02:00,on,12.0,2.0
+00:02:30,off

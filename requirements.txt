@@ -1,0 +1,4 @@
+pyserial>=3.5
+PyQt5>=5.15
+pyqtgraph>=0.13   # live V/A graph (optional; app runs without it)
+numpy>=1.21       # required by pyqtgraph for the plot buffers
